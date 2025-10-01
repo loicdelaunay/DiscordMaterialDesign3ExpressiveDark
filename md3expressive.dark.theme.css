@@ -32,6 +32,14 @@ body, button, input, select, textarea {
     width: 6px !important;
 }
 
+.repliedMessage_c19a55{
+    background-color: rgba(22, 22, 22, 0.674) !important;
+    border-radius: 8px !important;
+    margin-left: 2px !important;
+    margin-right: 2px !important;
+    padding: 4px !important;
+}
+
 /* Update server selection */
 .item__58105{
     margin-left: 0px !important;

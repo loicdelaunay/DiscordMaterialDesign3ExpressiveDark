@@ -27,6 +27,11 @@ body, button, input, select, textarea {
     background-color: rgba(255, 255, 255, 0.1);
 }
 
+.message__5126c::before{
+    border-radius: 6px !important;
+    width: 6px !important;
+}
+
 /* Update server selection */
 .item__58105{
     margin-left: 0px !important;

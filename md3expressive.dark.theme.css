@@ -5,10 +5,17 @@
  * @version 0.0.1
  */
 
+/* Material Design 3 variable font suite */
+@import url('https://fonts.googleapis.com/css2?family=Roboto+Flex:opsz,wght@8..144,400;8..144,500;8..144,600&family=Noto+Sans:wght@400;500;600&display=swap');
+
+body, button, input, select, textarea {
+    font-family: 'Roboto Flex', 'Google Sans', 'Noto Sans', 'Roboto', 'Segoe UI', sans-serif !important;
+}
+
 /* Update all Discord messages */
 .message__5126c {
     background-color: rgba(165, 165, 165, 0.05); /* Light overlay */
-    border-radius: 12px; /* Rounded corners */
+    border-radius: 12px;
     margin-left: 5px;
     margin-right: 5px;
     padding-top: 5px !important;
@@ -19,6 +26,16 @@
 .message__5126c:hover {
     background-color: rgba(255, 255, 255, 0.1);
 }
+
+/* Update server selection */
+.item__58105{
+    margin-left: 0px !important;
+}
+
+.listItem__650eb{
+
+}
+
 
 /* Update message name author */
 .username_c19a55 {

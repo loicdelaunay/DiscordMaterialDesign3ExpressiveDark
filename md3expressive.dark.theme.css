@@ -205,3 +205,26 @@ body, button, input, select, textarea {
 .header_f37cb1 .iconWrapper__3e4a3:hover {
     background-color: rgba(255, 255, 255, 0.16) !important;
 }
+
+.root__49fc1{
+    border-radius: 24px !important;
+}
+
+.flex__7c0ba{
+    border-radius: 24px !important;
+}
+
+/* Add background on hover icon */
+.icon_d98031:hover {
+    background-color: rgba(255, 255, 255, 0.08) !important;
+    border-radius: 12px !important;
+    padding: 4px !important;
+    transition: background-color 180ms cubic-bezier(0.2, 0, 0, 1) !important;
+}
+
+.iconWrapper__9293f:hover {
+    background-color: rgba(255, 255, 255, 0.08) !important;
+    border-radius: 12px !important;
+    padding: 4px !important;
+    transition: background-color 180ms cubic-bezier(0.2, 0, 0, 1) !important;
+}

@@ -1,0 +1,27 @@
+/**
+ * @name Material Design 3 Expressive Dark
+ * @author LoicD
+ * @description Based on default discord dark theme but aiming to follow more Material Design 3 expressive patterns
+ * @version 0.0.1
+ */
+
+/* Target all Discord messages */
+.message__5126c {
+    background-color: rgba(165, 165, 165, 0.05); /* Light overlay */
+    border-radius: 14px; /* Rounded corners */
+    margin-left: 10px;
+    margin-right: 10px;
+    padding-top: 10px !important;
+    padding-bottom: 10px !important;
+}
+
+/* Target all Discord messages hovered */
+.message__5126c:hover {
+    background-color: rgba(255, 255, 255, 0.1);
+}
+
+/* Target message name author */
+.username_c19a55{
+    color: #FFFFFF; /* White color for better contrast */
+    font-weight: 600; /* Semi-bold for emphasis */
+}

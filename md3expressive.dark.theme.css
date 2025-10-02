@@ -49,6 +49,10 @@ body, button, input, select, textarea {
     padding: 4px !important;
 }
 
+.userAvatar__55bab{
+    border-radius: 40% !important;
+}
+
 /* Update server selection */
 .item__58105{
     margin-left: 0px !important;
@@ -249,4 +253,19 @@ body, button, input, select, textarea {
     border-radius: 12px !important;
     padding: 4px !important;
     transition: background-color 180ms cubic-bezier(0.2, 0, 0, 1) !important;
+}
+
+.streamPreview__6da2d{
+    border-radius: 18px !important;
+    padding: 14px !important;
+}
+
+.previewHover__6da2d{
+    border-radius: 18px !important;
+}
+
+.previewImage__6da2d{
+    border-radius: 50% !important;
+    aspect-ratio: 1 / 1 !important;
+    object-fit: cover !important;
 }

@@ -32,6 +32,15 @@ body, button, input, select, textarea {
     width: 6px !important;
 }
 
+.usernameFont__07f91{
+    background-color: rgba(255, 255, 255, 0.059) !important;
+    padding: 2px 6px !important;
+    border-radius: 8px !important;
+    display: inline-flex !important;
+    align-items: center !important;
+    box-shadow: 0 4px 12px rgba(0, 0, 0, 0.25) !important;
+    transition: box-shadow 120ms ease, background-color 120ms ease !important;}
+
 .repliedMessage_c19a55{
     background-color: rgba(22, 22, 22, 0.674) !important;
     border-radius: 8px !important;

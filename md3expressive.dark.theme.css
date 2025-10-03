@@ -285,3 +285,7 @@ body, button, input, select, textarea {
     font-size: 12px !important;
     font-variant-numeric: tabular-nums !important;
 }
+
+button{
+    border-radius: 32px !important;
+}

@@ -278,3 +278,10 @@ body, button, input, select, textarea {
 .total__260e1{
     padding-right: 6px !important;
 }
+
+.tabularNumbers__4bd52{
+    font-family: 'Roboto Flex', 'Google Sans', 'Noto Sans', 'Roboto', 'Segoe UI', sans-serif !important;
+    font-variation-settings: 'wght' 600 !important;
+    font-size: 12px !important;
+    font-variant-numeric: tabular-nums !important;
+}
